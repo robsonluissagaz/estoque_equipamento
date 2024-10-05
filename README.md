@@ -2,11 +2,11 @@
 Um programa que criei para controlar o estoque de equipamentos do departamento de TI para uma empresa.
 
 
-# estoque.exe
+## estoque.exe
 Este é o arquivo que o usuário irá usar para controlar o estoque.
 
 
-# estoque.py
+## estoque.py
 Este arquivo contém todas as linhas de códigos que usei no projeto do programa.
 
 
