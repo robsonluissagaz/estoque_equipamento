@@ -28,9 +28,9 @@ ADD: Todas as opção podem ficar em branco se for do agrado do usuário, podend
 
 
 ### Funcionalidade 2 do programa
-Nesta opção você poderá verificar os equipamentos cadastrados no sistema, uma lista dos equipamentos aparecerá na tela, use os índices mostrados na tela para secelcionar o equipamento que deseja analizar.
+Nesta opção você poderá verificar os equipamentos cadastrados no sistema, uma lista dos equipamentos aparecerá na tela, use os índices mostrados na tela para selecionar o equipamento que deseja analizar.
 
-1. após você selecionar o equipamento o programa automaticamente abrirá um arquivo txt que contém todas as informações inseridas na funcionalidade 1. Após o arquivo txt ser aberto você pode alterar ou remover informações do equipamento da maneira que quiser. Lembre-se de salvar as informações alteradas quando fechar o arquivo txt.
+1. após você selecionar o equipamento, o programa automaticamente abrirá um arquivo txt que contém todas as informações inseridas na funcionalidade 1. Após o arquivo txt ser aberto você pode alterar ou remover informações do equipamento da maneira que quiser. Lembre-se de salvar as informações alteradas quando fechar o arquivo txt.
 
 
 ### Funcionalidade 3 do programa
@@ -40,7 +40,7 @@ Nesta opção o programa irá mostrar uma lista dos equipamentos cadastrados no 
 ### Funcionalidade 4 do programa
 Nesta opção você vinculará uma nota fiscal ao equipamento, útil se futuramente precisar revisar orçamentos dos mesmos.
 
-1. Uma caixa interativa aparecerá mostrando uma lista dos equipamentos registrados no sistema, selecione o equipamento que deseja vincular a nota fiscal e clique em selecionar, uma outra caixa aparecerá pedindo o caminho do arquivo da nota fisca, clique em Browse ou digite o caminho do arquivo, após clicar em Browse a jenala do windows abrirá para você procurar o arquivo PDF no seu computador. Encontre o arquivo, clique duas vezes ou clica uma vez para selecionar o arquivo e depois clique em abrir na caixa interativa. Após isto o arquivo foi enviado automaticamente para o sistema e já consta nos arquivos locais do programa
+1. Uma caixa interativa aparecerá mostrando uma lista dos equipamentos registrados no sistema, selecione o equipamento que deseja vincular a nota fiscal e clique em selecionar, uma outra caixa aparecerá pedindo o caminho do arquivo da nota fiscal, clique em Browse ou digite o caminho do arquivo, após clicar em Browse a jenala do windows abrirá para você procurar o arquivo PDF no seu computador. Encontre o arquivo, clique duas vezes ou clique uma vez para selecionar o arquivo e depois clique em abrir na caixa interativa. Após isto o arquivo foi enviado automaticamente para o sistema e já consta nos arquivos locais do programa.
 
 
 ### Funcionalidade 5 do programa
