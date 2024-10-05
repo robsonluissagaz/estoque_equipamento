@@ -23,6 +23,7 @@ Nesta opção você fará o cadastro de um equipamento. Nesta opção o programa
 4. Serial key do equipamento
 5. Componentes do equipamento. EX: COMUTADOR_SETOR_FISCAL = [CPU03, MONITOR01, TECLADO05, MOUSE02]
 6. Observação do equipamento. EX: COMPUTADOR USADO PARA GERENCIAR NOTAS FISCAIS DA EMPRESA
+
 ADD: Todas as opção podem ficar em branco se for do agrado do usuário, podendo ser adicionadas a qualquer momento na opção 2 do programa.
 
 
